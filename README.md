@@ -1,1 +1,1 @@
-desafio-ustore
+Repositório para o desafio da Ustore
